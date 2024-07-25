@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a student at UCLA studying applied mathematics
+
 <!--
 **kevin-tran-tech/kevin-tran-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
