@@ -1,6 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 
-## ✨ About Me
+### ✨ About Me
 
 I'm Kevin Tran, a student at UCLA studying applied mathematics with a deep interest in cybersecurity. I aspire to become a Cybersecurity Analyst or Cybersecurity Engineer. I am currently enhancing my skills through hands-on projects, continuous learning, and certifications in cybersecurity.
 
