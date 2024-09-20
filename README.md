@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://www.linkedin.com/in/kevin-tran-tech/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 ### ✨ About Me
 
 My name is Kevin Tran and I'm a student at UCLA studying applied mathematics with a deep interest in cybersecurity. I aspire to become a Cybersecurity Analyst or Cybersecurity Engineer. I am currently enhancing my skills through hands-on projects, continuous learning, and certifications in cybersecurity.
